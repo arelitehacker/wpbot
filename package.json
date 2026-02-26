@@ -1,0 +1,17 @@
+{
+  "name": "ar-elite-hacker-v5.7",
+  "version": "5.7.0",
+  "description": "Professional WhatsApp Hacking Simulator Bot by AR-ELITE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.19.0",
+    "fs-extra": "^11.2.0",
+    "readline": "latest"
+  }
+}

@@ -34,6 +34,6 @@ Copy and paste these commands one by one in your Termux:
 ```bash
 pkg update && pkg upgrade -y
 pkg install nodejs git -y
-git clone https://github.com/arelitehackers/ARELITEHACKER
+git clone https://github.com/arelitehacker/wpbot
 npm install
 node index.js
